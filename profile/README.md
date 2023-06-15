@@ -19,14 +19,14 @@
 <br/>
 <br/>
 
-
+https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/arch.png
 ## 👨‍👩‍👧‍👦 팀 소개
-![img_10.png](assets/team.png)
+![img_10.png](https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/team.png)
 <br/>
 <br/>
 
 ## 🛠️ 아키텍처
-![img_11.png](assets/arch.png)
+![img_11.png](https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/arch.png)
 <br/>
 <br/>
 
@@ -43,17 +43,17 @@
     - 각종 시설물 고장신고 및 역무원 호출 인앱 자동화
 
 ### 🔐 문제해결 과정
-![img.png](assets/img.png)
+![img.png](https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/img.png)
 <br/>
 <br/>
 
 ### 📱미리보기
-![img_1.png](assets/img_1.png)
-![img_2.png](assets/img_2.png)
-![img_3.png](assets/img_3.png)
-![img_4.png](assets/img_4.png)
-![img_5.png](assets/img_5.png)
-![img_6.png](assets/img_6.png)
-![img_7.png](assets/img_7.png)
-![img_8.png](assets/img_8.png)
-![img_9.png](assets/img_9.png)
+![img_1.png](https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/img_1.png)
+![img_2.png](https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/img_2.png)
+![img_3.png](https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/img_3.png)
+![img_4.png](https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/img_4.png)
+![img_5.png](https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/img_5.png)
+![img_6.png](https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/img_6.png)
+![img_7.png](https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/img_7.png)
+![img_8.png](https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/img_8.png)
+![img_9.png](https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/img_9.png)
