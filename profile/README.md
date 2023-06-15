@@ -9,4 +9,4 @@
 ![팀 소개](https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/team.png)
 
 ## 🛠️ 아키텍처
-![아키텍처](https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/accessRide_Arch.png)
+![아키텍처](https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/AccessRideArch.png)
