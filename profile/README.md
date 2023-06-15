@@ -16,12 +16,19 @@
 사회적 비용만 4550억 규모로 추정되고<br/>
 출근이나 등교 및 중요한 약속에 늦어 직 간접적으로 피해를 입은 사람만 1210만명에 달합니다.<br/>
 쉐이퍼즈는 장애인의 관점에서, 장애인을 위해 설계된 어플리케이션을 통해 지하철 이용 경험을 개선하기로 계획했습니다.
+<br/>
+<br/>
+
 
 ## 👨‍👩‍👧‍👦 팀 소개
-![팀 소개](https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/team.png)
+![img_10.png](assets/team.png)
+<br/>
+<br/>
 
 ## 🛠️ 아키텍처
-![아키텍처](https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/_AccessRide.png)
+![img_11.png](assets/arch.png)
+<br/>
+<br/>
 
 ### 📍 주요기능
 1. **정확한 양질의 정보 부재**
@@ -36,15 +43,17 @@
     - 각종 시설물 고장신고 및 역무원 호출 인앱 자동화
 
 ### 🔐 문제해결 과정
-![img.png](img.png)
+![img.png](assets/img.png)
+<br/>
+<br/>
 
 ### 📱미리보기
-![img_1.png](img_1.png)
-![img_2.png](img_2.png)
-![img_3.png](img_3.png)
-![img_4.png](img_4.png)
-![img_5.png](img_5.png)
-![img_6.png](img_6.png)
-![img_7.png](img_7.png)
-![img_8.png](img_8.png)
-![img_9.png](img_9.png)
+![img_1.png](assets/img_1.png)
+![img_2.png](assets/img_2.png)
+![img_3.png](assets/img_3.png)
+![img_4.png](assets/img_4.png)
+![img_5.png](assets/img_5.png)
+![img_6.png](assets/img_6.png)
+![img_7.png](assets/img_7.png)
+![img_8.png](assets/img_8.png)
+![img_9.png](assets/img_9.png)
