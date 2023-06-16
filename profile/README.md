@@ -1,5 +1,5 @@
 # 2023 새싹톤(SeSACTHON) 최우수상(서울시장상)
-![단체사진1](https://raw.githubusercontent.com/access-ride/.github/master/profile/assets/thumbnail.JPG)
+![단체사진1](https://raw.githubusercontent.com/access-ride/.github/master/profile/assets/team0.JPG)
 <br/>
 ## 🚂 무턱대고 🚂
 ![무턱대고 썸네일](https://raw.githubusercontent.com/access-ride/.github/master/profile/assets/main.png)
