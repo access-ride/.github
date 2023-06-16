@@ -63,5 +63,5 @@
 ![img_9.png](https://raw.githubusercontent.com/access-ride/.github/master/profile/assets/img_9.png)
 
 ### Photos
-![img10.png](https://raw.githubusercontent.com/access-ride/.github/master/profile/assets/img_10.png)
+![img10.png](https://raw.githubusercontent.com/access-ride/.github/master/profile/assets/img_10.jpg)
 ![단체사진2](https://raw.githubusercontent.com/access-ride/.github/master/profile/assets/team1.jpeg)
