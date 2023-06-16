@@ -1,8 +1,8 @@
-# 2023 새싹톤(SeSACTHON) - 쉐이퍼즈
+# 2023 새싹톤(SeSACTHON) 최우수상(서울시장상)
 
 ## 🚂 무턱대고 🚂
 ![무턱대고 썸네일](https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/main.png)
-> 무턱대고는 **교통약자 문제** 를 해결을 위한 앱 입니다.
+> 무턱대고는 **교통약자 문제**를 해결을 위한 앱 입니다.
 <br />
 
 ### 🚀 개발기간 2023.05.24 ~ 2023.06.15
@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/arch.png
+
 ## 👨‍👩‍👧‍👦 팀 소개
 ![img_10.png](https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/team.png)
 <br/>
@@ -34,13 +34,13 @@ https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/arch.png
 1. **정확한 양질의 정보 부재**
    - 실시간 열차 운행정보, 장애인 전용 환승정보 제공
 2. **고려되지 않은 유저 접근성**
-    - 자동 안내 네비게이션, AI기반 음성 안내
+   - 자동 안내 네비게이션, AI기반 음성 안내
 3. **시설물 가용성 확인 불가**
    - 공공 API와 집단지성을 통한 시설물 실시간 가용성 판단 가능
 4. **역사 내 경로 탐색의 어려움**
-    - 3D 지도로 확인하는 역사 내 길찾기
+   - 3D 지도로 확인하는 역사 내 길찾기
 5. **불편한 민원 신고 방식**
-    - 각종 시설물 고장신고 및 역무원 호출 인앱 자동화
+   - 각종 시설물 고장신고 및 역무원 호출 인앱 자동화
 
 ### 🔐 문제해결 과정
 ![img.png](https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/img.png)
