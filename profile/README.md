@@ -1,7 +1,8 @@
 # 2023 새싹톤(SeSACTHON) 최우수상(서울시장상)
-
+![단체사🎥](https://raw.githubusercontent.com/access-ride/.github/master/profile/assets/img_0.jpeg)
+<br/>
 ## 🚂 무턱대고 🚂
-![무턱대고 썸네일](https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/main.png)
+![무턱대고 썸네일](https://raw.githubusercontent.com/access-ride/.github/master/profile/assets/main.png)
 > 무턱대고는 **교통약자 문제**를 해결을 위한 앱 입니다.
 <br />
 
@@ -21,12 +22,12 @@
 
 
 ## 👨‍👩‍👧‍👦 팀 소개
-![img_10.png](https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/team.png)
+![img_10.png](https://raw.githubusercontent.com/access-ride/.github/master/profile/assets/team.png)
 <br/>
 <br/>
 
 ## 🛠️ 아키텍처
-![img_11.png](https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/arch.png)
+![img_11.png](https://raw.githubusercontent.com/access-ride/.github/master/profile/assets/arch.png)
 <br/>
 <br/>
 
@@ -42,18 +43,25 @@
 5. **불편한 민원 신고 방식**
    - 각종 시설물 고장신고 및 역무원 호출 인앱 자동화
 
+### 🎥 시연 영상
+[https://youtu.be/fOgAW7-Bwzs](https://youtu.be/fOgAW7-Bwzs)
+
 ### 🔐 문제해결 과정
-![img.png](https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/img.png)
+![img.png](https://raw.githubusercontent.com/access-ride/.github/master/profile/assets/img.png)
 <br/>
 <br/>
 
 ### 📱미리보기
-![img_1.png](https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/img_1.png)
-![img_2.png](https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/img_2.png)
-![img_3.png](https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/img_3.png)
-![img_4.png](https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/img_4.png)
-![img_5.png](https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/img_5.png)
-![img_6.png](https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/img_6.png)
-![img_7.png](https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/img_7.png)
-![img_8.png](https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/img_8.png)
-![img_9.png](https://sesacthon.s3.ap-northeast-2.amazonaws.com/assets/img_9.png)
+![img_1.png](https://raw.githubusercontent.com/access-ride/.github/master/profile/assets/img_1.png)
+![img_2.png](https://raw.githubusercontent.com/access-ride/.github/master/profile/assets/img_2.png)
+![img_3.png](https://raw.githubusercontent.com/access-ride/.github/master/profile/assets/img_3.png)
+![img_4.png](https://raw.githubusercontent.com/access-ride/.github/master/profile/assets/img_4.png)
+![img_5.png](https://raw.githubusercontent.com/access-ride/.github/master/profile/assets/img_5.png)
+![img_6.png](https://raw.githubusercontent.com/access-ride/.github/master/profile/assets/img_6.png)
+![img_7.png](https://raw.githubusercontent.com/access-ride/.github/master/profile/assets/img_7.png)
+![img_8.png](https://raw.githubusercontent.com/access-ride/.github/master/profile/assets/img_8.png)
+![img_9.png](https://raw.githubusercontent.com/access-ride/.github/master/profile/assets/img_9.png)
+
+### Photos
+![img.png](https://raw.githubusercontent.com/access-ride/.github/master/profile/assets/img_10.png)
+![단체사진](https://raw.githubusercontent.com/access-ride/.github/master/profile/assets/team1.jpeg)
