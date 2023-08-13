@@ -6,8 +6,6 @@
 > 무턱대고는 **교통약자 문제**를 해결을 위한 앱 입니다.
 <br />
 
-### 🚀 개발기간 2023.05.24 ~ 2023.06.15
-
 ## 💡서비스 소개
 2020년 보건복지부 통계에 따르면 등록 장애인 수는 약 260만명에 이르고<br/>
 이 숫자의 10명 중 한 명이 휠체어 등의 이동보조장치를 이용하는 장애인입니다.<br/>
@@ -16,13 +14,7 @@
 큰 규모의 시위와 지하철 점거 이슈가 있었습니다.<br/>
 사회적 비용만 4550억 규모로 추정되고<br/>
 출근이나 등교 및 중요한 약속에 늦어 직 간접적으로 피해를 입은 사람만 1210만명에 달합니다.<br/>
-쉐이퍼즈는 장애인의 관점에서, 장애인을 위해 설계된 어플리케이션을 통해 지하철 이용 경험을 개선하기로 계획했습니다.
-<br/>
-<br/>
-
-
-## 👨‍👩‍👧‍👦 팀 소개
-![img_10.png](https://raw.githubusercontent.com/access-ride/.github/master/profile/assets/team.png)
+무턱대고 서비스는 장애인의 관점에서, 장애인을 위해 설계된 어플리케이션을 통해 지하철 이용 경험을 개선하기로 계획했습니다.
 <br/>
 <br/>
 
@@ -61,7 +53,3 @@
 ![img_7.png](https://raw.githubusercontent.com/access-ride/.github/master/profile/assets/img_7.png)
 ![img_8.png](https://raw.githubusercontent.com/access-ride/.github/master/profile/assets/img_8.png)
 ![img_9.png](https://raw.githubusercontent.com/access-ride/.github/master/profile/assets/img_9.png)
-
-### Photos
-![img10.png](https://raw.githubusercontent.com/access-ride/.github/master/profile/assets/img_10.jpg)
-![단체사진2](https://raw.githubusercontent.com/access-ride/.github/master/profile/assets/team1.jpeg)
